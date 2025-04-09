@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
               );
             },
           ),
-          const SizedBox(width: 50),
+          const SizedBox(width: 10),
           FloatingActionButton.extended(
             heroTag: "fab_right",
             icon: const Icon(Icons.add_a_photo_rounded),
